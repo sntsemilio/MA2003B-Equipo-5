@@ -1,9 +1,9 @@
 # MA2003B-Equipo-5
 
 ## Descripción
-**VARaiM** es un proyecto de análisis de series temporales y modelado estadístico aplicado a la calidad del aire en la Zona Metropolitana de Monterrey.  
-El objetivo es evaluar la variabilidad atmosférica y su relación con variables ambientales, utilizando enfoques de análisis multivariante. El proyecto combina técnicas de **análisis estadístico**, **modelado de series de tiempo** y **visualización de datos** para estudiar tendencias y correlaciones entre contaminantes atmosféricos.  
-Se busca proporcionar una base reproducible y científicamente sólida para futuras investigaciones sobre calidad del aire y sostenibilidad urbana en México.
+**VaRAiM** es un framework académico que aplica metodologías de finanzas cuantitativas (Value-at-Risk, GARCH, Teoría de Valor Extremo y simulaciones Monte Carlo) para pronosticar la calidad del aire en la Zona Metropolitana de Monterrey. 
+
+El proyecto nace de la necesidad de superar las limitaciones de los modelos actuales de pronóstico deterministico, que no cuantifican adecuadamente la incertidumbre y riesgo de eventos extremos de contaminación, cruciales para la toma de decisiones en salud pública.
 
 ## Requisitos Previos
 

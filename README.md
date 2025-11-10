@@ -131,7 +131,11 @@ python --version
 
 ## Contribuidores
 
-- [Lista de colaboradores del equipo]
+- José Emilio Gomez Santos
+- Santiago Perez Almazan
+- Marcelo Sanchez Rodriguez
+- Jose Luis Montibeller Gonzalez
+- Jesús Emilio Medina García
 
 ## Licencia
 

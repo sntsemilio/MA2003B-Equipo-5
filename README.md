@@ -1,11 +1,13 @@
 # MA2003B-Equipo-5
 
 ## Descripción
-[Agrega aquí una breve descripción de tu proyecto]
+**VARaiM** es un proyecto de análisis de series temporales y modelado estadístico aplicado a la calidad del aire en la Zona Metropolitana de Monterrey.  
+El objetivo es evaluar la variabilidad atmosférica y su relación con variables ambientales, utilizando enfoques de análisis multivariante. El proyecto combina técnicas de **análisis estadístico**, **modelado de series de tiempo** y **visualización de datos** para estudiar tendencias y correlaciones entre contaminantes atmosféricos.  
+Se busca proporcionar una base reproducible y científicamente sólida para futuras investigaciones sobre calidad del aire y sostenibilidad urbana en México.
 
 ## Requisitos Previos
 
-- Python 3.8 o superior
+- Python 3.10 o superior
 - pip (gestor de paquetes de Python)
 - Git
 
